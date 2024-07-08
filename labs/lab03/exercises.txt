@@ -1,0 +1,134 @@
+All the commands that I used to create the file system structure.
+	sudo mkdir /data
+	sudo mkdir /data/aircraft
+	sudo mkdir /data/aircraft/configurations
+	sudo touch /data/aircraft/configurations/n345qr.cfg
+	sudo mkdir /data/aircraft/configurations/xq-67a
+	sudo touch /data/aircraft/configurations/xq-671/n223wx.cfg index.cfg n910uv.cfg
+	sudo mkdir /data/aircraft/configurations/mq-1c
+	sudo touch /data/aircraft/configurations/mq-1c/n789ef.cfg n101hg.cfg index.cfg
+	sudo mkdir /data/aircraft/configurations/mq-9b
+	sudo touch /data/aircraft/configurations/mq-9b/index.cfg
+	sudo mkdir /data/aircraft/configurations/mq-20
+	sudo touch /data/aircraft/configurations/mq-20/n234ij.cfg n567kl.cfg index.cfg
+	sudo mkdir /data/aircraft/configurations/mojave
+	sudo touch /data/aircraft/configurations/mojave/n456cd.cfg index.cfg n123ab.cfg
+	sudo touch /data/aircraft/configurations/n678st.cfg
+	sudo mkdir /data/aircraft/configurations/mq-9
+	sudo touch /data/aircraft/configurations/mq-9/n1120-.cfg n890mn.cfg index.cfg
+
+
+
+
+1. Navigate to the 'mq-9' directory using an absolute path.
+
+	cd /data/aircraft/configurations/mq-9
+
+2.Navigate to the 'xq-67a' directory using a relative path from 'configurations'.
+
+	cd xq-67a
+
+3.Move 'n345qr.cfg' to the 'mq-1c' directory.
+
+	mv n345qr.cfg mq-1c/
+
+4.Move 'n678st.cfg' to the 'mojave' directory.
+	
+	mv n678st.cfg mojave 
+
+5.Create a backup directory in 'aircraft' and copy all the configuration files into it.
+	done	
+
+6.List the i-nodes of all configuration files in 'mq-20' (Note, you may need to look up how to see i-nodes using the ls command by using the man page utility). 
+
+	ls -i /data/aircraft/configurations/mq-20
+	1093356 index.cfg  1093354 n234ij.cfg  1093355 n456kl.cfg
+
+7.Remove the 'mq-9b' directory using 'rmdir' and explain the error message.
+
+	Failed to remove directory not empty, cannot remove directory with files still in it.
+	In order to remove directory I can use rm -r mq-9b and it will remove directory and
+	its contents
+
+8.Create a 'locations' directory in 'aircraft'.
+
+	sudo mkdir locations
+
+9.Create symbolic links in 'locations' to the 'xq-67a', 'mq-1c', and 'mq-9' directories.
+
+	cd /data/aircraft/locations
+	ln -s xq-67a
+	ln -s xq-mq-1c
+	ln -s mq-9
+	
+10.Navigate to 'mojave' using a relative path from 'aircraft'.
+
+	cd configurations/mojave/
+
+11.Copy 'n112op.cfg' to the 'backup' directory.
+
+	sudo cp n112op.cfg backup
+
+12.List all files in the 'configurations' directory with their sizes.
+
+	cd configurations/
+	ls -l
+	total 24
+	drwxr-xr-x 2 root root 4096 Jul  8 00:42 mojave
+	drwxr-xr-x 2 root root 4096 Jul  8 00:40 mq-1c
+	drwxr-xr-x 2 root root 4096 Jul  8 00:10 mq-20
+	drwxr-xr-x 2 root root 4096 Jul  8 00:13 mq-9
+	drwxr-xr-x 2 root root 4096 Jul  8 00:06 mq-9b
+	drwxr-xr-x 2 root root 4096 Jul  8 00:00 xq-67a
+
+13.Move 'n890mn.cfg' from 'mq-9' to 'mq-20'.
+
+	sudo mv mq-9/n890mn.cfg mq-20/
+
+14.Create a symbolic link to 'n101gh.cfg' in the 'locations' directory.
+
+	cd /data/aircraft/location 
+	sudo ln -s n101gh.cfg
+
+15.Navigate to 'mq-1c' using an absolute path.
+
+	cd /mq-1c
+
+16.Remove the symbolic link to 'xq-67a' in the 'locations' directory.
+
+	cd /data/aircraft/location
+	sudo rm xq-67a
+	verify with ls that xq-67a is removed
+
+17.Create a new configuration file 'n567kl.cfg' in the 'mojave' directory.
+
+	cd /data/aircraft/configurations/mojave
+	sudo touch n567kl.cgf
+	verify ls 
+
+18.Display the disk usage of the 'configurations' directory.
+
+	cd /data/aircraft/configurations/
+	du -h
+	4.0K    ./mq-9b
+	4.0K    ./mojave
+	4.0K    ./xq-67a
+	4.0K    ./mq-20
+	4.0K    ./mq-9
+	4.0K    ./mq-1c
+	28K     .
+
+19.Create a directory 'test' inside 'mq-9' and remove it using 'rmdir'.
+
+	cd /data/aircraft/configurations/mq-9
+	sudo mkdir test
+	verify directory is created uings ls command
+	sudo rmdir test
+	verify directory is removed using ls command
+
+20.Rename 'index.cfg' in 'xq-67a' to 'main.cfg'.
+
+	cd /data/aircraft/configurations/xq-67a
+	sudo mv index.cfg main.cfg
+	verify file has been renamed us ls command
+
