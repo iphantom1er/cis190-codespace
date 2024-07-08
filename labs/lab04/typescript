@@ -1,0 +1,728 @@
+Script started on 2024-07-08 17:16:39+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="173" LINES="40"]
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ wget htp[Ktps://boss.vvc.edu.tonning/classes/cis290[K[K[K190/resources/lab04.tgz
+--2024-07-08 17:17:44--  https://boss.vvc.edu.tonning/classes/cis190/resources/lab04.tgz
+Resolving boss.vvc.edu.tonning (boss.vvc.edu.tonning)... failed: Name or service not known.
+wget: unable to resolve host address ‘boss.vvc.edu.tonning’
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ wget https://boss.vvc.edu.tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Ktail alice.txt head[C[C[C[C[C[C[C[C[C[C[Cl[Kwho[1Plsddcd //[3Plscd /sudo cd root[7P/root[1Ptree[2Plssudo ls rootcd /root[7Pwhoamicd root[5@sudo [C[C[C[C[C[C[C[5P[C[C[C[C[C[C[Cls[Kcd ../../[Klscd currentls[Kcd javals[Kcdls -asudo cd root[Kcd rootls ../../sudo cd root[5P[C[C[C[C[C[C[C[Kroot[4Ppwd[1Plsvi CODE_OFcONDUCT.mdls[Kcd nvm[4Pls ../../[Kpwdls ../../../[Kpwdls ../../[K[1P../ ../[4Pcdlscd javals[Kcd medials[Ksudo cd root[5P[C[C[C[C[C[C[C[4Ppwd[1Plssudo cd root[5P[C[C[C[C[C[C[Cls[Kcd ../[4Plscd root[Ksudo ls ~/home/ls[Kcd /workspaces/sudo ls ~/home/codespace[Kpwd[Ksls -l[Kcdsudo ls ~/workspaces[6Phome[5Pls ../../[Ksudo cd root[5P[C[C[C[C[C[C[Csudo ~/workspaces/cis190-codespace[2Pcd /workspaces/cis190-codespace/ls[Kcd javals[Kcdlscd /workspaces/ls[Kcd /workspaces/cis190-codespace/[Kcis_lab2.txtls[Kcd lab02ls[Kcd labs~/lab2/ls[Kvi lab2cd ../lab2[1P/lab2sudo cd lab2[3Plab2[2Pcd[C[C[C[C[Cls ./././[K[K./[Kman lsls man../../../[Kcis190-codespace/[K[2Pexitvi cis_lab2.txt ls[Kcd lab02ls[Kpwdcd labsls[Kpwdcleard /workspaces/cis190-codespace/tree[Krteels ~/homecd[Kls ~/home[Kess /workspaces/cis190-codespace/labs/lab02/cis_lab2.txt [4P_codespace/labs/cis190_lab2.txtvi cis_lab2.txt[K[10Pls -l[1P-l[Kcd sudo ls[6Ptreecd /workspaces/cis190-codespace/labs/lab02/[27Ptouch status.txt[5Pcd Saturday[7Ptreecd /workspaces/cis190-codespace/labs/lab02/tree[Kcd Saturdaytouch status.txtcd /workspaces/cis190-codespace/labs/lab02/tree[Kcd sudo lsls[Kcd sudo ls[6Ptreecd /workspaces/cis190-codespace/labs/lab02/[27Ptouch status.txt[5Pcd Saturday[7Ptreecd /workspaces/cis190-codespace/labs/lab02/l[28Ptouch status.txtjournal.txt[8Pcd Friday[5Ptreecd /workspaces/cis190-codespace/labs/lab02/[27Ptouch status.txtjournal.txt[5Pcd Thursday ls [Kcd /workspaces/cis190-codespace/labs/lab02/tree[K[2Plstouch status.txtjournal.txt[5Pcd Wednesdayls[Ktree[2Plscd /workspaces/cis190-codespace/labs/lab02/ls[Ktouch status.txtjournal.txt[7Pcd Tuesdayls[Kcd /workspaces/cis190-codespace/labs/lab02/lear[Kd lab02///lab02/[K~lab02//lab02[2Plab02touch status.txt[7Pcd Sundayls[Kcd lab02ls[Kcd /workspaces/cis190-codespace/labs/lab02[Kls[K[Ktouch status.txtjournal.txt[8Pcd Mondayls[Kcd lab02[1Ps/workspaces/cis190-codespace/pwd[K[1Plscd /lab02[1Plab02[1Ps/labs[1Plabsls[Kcd labs02//lab02/[2Plab02MondaySundayls[Kmkdir Sunday Monday Tuesday Wednesday Thursday Friday Saturday vimtutor[K NurseryRhymes.txt [K[11Pcd lab02/[2Ps02//workspaces/cis190-codespace/ls[Kcd lab02[1Psls[Kcd lab02/workspaces/cis190-codespace/pwd[Kcd /workspaces/cis190-codespace/ls -l[Kscd lab023mkdir lab02[3Pcd[C[C[C[C[C[C[5Ppwdcd labs[3@mkdir[C[C[C[C[C[3Pcd[C[C[C[C[C[4Ppwdcd lab02[3@mkdir[C[C[C[C[C[C[3Pcd lab032[3Pls -slcd /workspaces/cis190-codespace/[Kpwdcd /workspaces/cis190-codespace/lab02[Kls[Kcd labs02ls[Kcd /workspaces/cis190-codespace/lab02/[K[K[1Ps02/vi NurseryRhymes.txt mtutor[Kmkdir Sunday Monday Tuesday Wednesday Thursday Friday Saturday ls[Kcd SundayMonday[1Plab02/lab02/[1Plab02/[2Psls[Kcd labs/labs[1Plabs02/lab02ls[Kpwdcd /workspaces/cis190-codespace/labs[K02ls[Kcd Mondaytouch journal.txt[1Pstatus.txtl[Kscd lab02/workspaces/cis190-codespace/labs/ls[Kcd lab02ls[Kcd Sundaytouch status.txt[8Pcd lab02//lab02[1P~lab02/lab02/lab02//[5Pleard /workspaces/cis190-codespace/labs/lab02/ls[Kcd Tuesdaytouch journal.txt[1Pstatus.txtls[Kcd /workspaces/cis190-codespace/labs/lab02/ls[Ktree[2Plscd Wednesdaytouch journal.txt[1Pstatus.txtls[Ktreecd /workspaces/cis190-codespace/labs/lab02/ls [K[9@cd Thursday[Ctouch journal.txt[1Pstatus.txtcd /workspaces/cis190-codespace/labs/lab02/tree[Kcd Fridaytouch journal.txt[1Pstatus.txtcd /workspaces/cis190-codespace/labs/lab02/l[Ktree[Kcd Saturdaytouch status.txtcd /workspaces/cis190-codespace/labs/lab02/tree[Kcd sudo lsls[K-l -lvi cis_lab2.txtless /workspaces/cis190_codespace/labs/cis190_lab2.txt-codespace/labs/lab02/cis_lab2.txt s[K ~/homecd[Kls ~/home[5Prteetreecd /workspaces/cis190-codespace/lear[K[2Ppwd[1Plscd labs[4Ppwd[1Plscd lab02ls[Kvi cis_lab2.txt exit[Kls ../cis190-codespace/../[K../[6Pmanman ls[1Pls ../[1P/././[2Pcd lab2[2@sudo[C[C[C[C[Ccd lab2[3Pcd ./lab2./lab2[3Pvi lab2ls[Kcd ~/lab2/[3Plabsls[Kcd lab02ls[Kcd cis_lab2.txt/workspaces/cis190-codespace/ls[Kcd /workspaces/ls[Kcdlscd javals[Kcd /workspaces/cis190-codespace/sudo ~/workspaces/cis190-codespacecd root[K[5@sudo [C[C[C[C[C[C[C[6Pls ../../sudo ls ~/homeworkspacescd[Kls -l[2Ppwsdsudo ls ~/home/codespace[9Pcd /workspaces/ls[Ksudo ls ~/home/cd[K rootls[Kcd ../[4Plscd root[5@sudo [C[C[C[C[C[C[Cls[Kpwdcd root[5@sudo [C[C[C[C[C[C[Cls[Kcd media[K[1Plscd javals[Kcdls ../[1P../ ../../[K[3Ppwd[1Pls ../../../pwd[K[1Pls ../../[Kcd nvm[4Plsvi CODE_OFcONDUCT.mdls[Kpwdcd root[Kroot[5@sudo [C[C[C[C[C[C[C[3Pls ../../[2Pcd rootsudo cd root[7Pls -a[Kcdlscd javals[Kcd currentls[Kcd ../../ls[Kcd root[5@sudo [C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[1Pwhoamisudo cd /root[1Pls rootls[Ktree/rootsudo cd root[8Pcd /[2Plscd //[3Pddlswho[Klhead alice.txt tail[C[C[C[C[C[C[C[C[C[C[Cexit[Kwget https://boss.vvc.edu.tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kwget https://boss.vvc.edu.tonning/classes/cis190/resources/lab04.tgz[K[1Ptonning/classes/cis190/resources/lab04.tg/tonning/classes/cis190/resources/lab04.tg
+--2024-07-08 17:19:27--  https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tg
+Resolving boss.vvc.edu (boss.vvc.edu)... 207.233.102.33
+Connecting to boss.vvc.edu (boss.vvc.edu)|207.233.102.33|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2024-07-08 17:19:27 ERROR 404: Not Found.
+
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ wget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz
+--2024-07-08 17:20:01--  https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz
+Resolving boss.vvc.edu (boss.vvc.edu)... 207.233.102.33
+Connecting to boss.vvc.edu (boss.vvc.edu)|207.233.102.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12526 (12K) [application/octet-stream]
+Saving to: ‘lab04.tgz’
+
+lab04.tgz                                     0%[                                                                                         ]       0  --.-KB/s               lab04.tgz                                   100%[========================================================================================>]  12.23K  --.-KB/s    in 0.01s   
+
+2024-07-08 17:20:01 (1.03 MB/s) - ‘lab04.tgz’ saved [12526/12526]
+
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ tar -xvfvla[K[K lab04.tgz
+tar: v: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ tar -xvfv lab04.tgz[Ktar -xvfv lab04.tgz[1P lab04.tgz
+configs/
+configs/n567kl/
+configs/n123ab/
+configs/tailnumbers.txt
+configs/n678st/
+configs/n112op/
+configs/n223wx/
+configs/n101gh/
+configs/n789ef/
+configs/n234ij/
+configs/n890mn/
+configs/n456cd/
+configs/n456cd/config_4.ini
+configs/n456cd/config_5.ini
+configs/n456cd/config_2.ini
+configs/n456cd/config_3.ini
+configs/n456cd/config_1.ini
+configs/n890mn/config_4.ini
+configs/n890mn/config_5.ini
+configs/n890mn/config_2.ini
+configs/n890mn/config_3.ini
+configs/n890mn/config_1.ini
+configs/n234ij/config_4.ini
+configs/n234ij/config_5.ini
+configs/n234ij/config_2.ini
+configs/n234ij/config_3.ini
+configs/n234ij/config_1.ini
+configs/n789ef/config_4.ini
+configs/n789ef/config_5.ini
+configs/n789ef/config_2.ini
+configs/n789ef/config_3.ini
+configs/n789ef/config_1.ini
+configs/n101gh/config_4.ini
+configs/n101gh/config_5.ini
+configs/n101gh/config_2.ini
+configs/n101gh/config_3.ini
+configs/n101gh/config_1.ini
+configs/n101gh/config_1a.ini
+configs/n223wx/config_4.ini
+configs/n223wx/config_5.ini
+configs/n223wx/config_2.ini
+configs/n223wx/config_3.ini
+configs/n223wx/config_1.ini
+configs/n112op/config_4.ini
+configs/n112op/config_5.ini
+configs/n112op/config_2.ini
+configs/n112op/config_3.ini
+configs/n112op/config_1.ini
+configs/n678st/config_4.ini
+configs/n678st/config_5.ini
+configs/n678st/config_2.ini
+configs/n678st/config_3.ini
+configs/n678st/config_1.ini
+configs/n123ab/config_4.ini
+configs/n123ab/config_5.ini
+configs/n123ab/config_2.ini
+configs/n123ab/config_3.ini
+configs/n123ab/config_1.ini
+configs/n567kl/config_4.ini
+configs/n567kl/config_5.ini
+configs/n567kl/config_2.ini
+configs/n567kl/config_3.ini
+configs/n567kl/config_1.ini
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls -l
+total 32
+drwxr-xr-x+ 12 codespace codespace  4096 Jul  5 17:51 [0m[01;34mconfigs[0m
+-rw-rw-rw-   1 codespace codespace 12526 Jul  5 18:14 [01;31mlab04.tgz[0m
+-rw-rw-rw-   1 codespace codespace 12288 Jul  8 17:20 typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ ls
+README.md  [0m[34;42mlabs[0m  [34;42mquizzes[0m  [34;42msandbox[0m
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ cd labs/
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[34;42mlab02[0m  [34;42mlab03[0m  [34;42mlab04[0m
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab04
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mconfigs[0m  [01;31mlab04.tgz[0m  typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls -l
+total 44
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [0m[01;34mn101gh[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn112op[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn123ab[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn223wx[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn234ij[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  5 17:54 [01;34mn456cd[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn567kl[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn678st[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn789ef[0m
+drwxr-xr-x+ 2 codespace codespace 4096 Jul  8 17:22 [01;34mn890mn[0m
+-rw-r--r--  1 codespace codespace  287 Jul  5 17:51 tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ C[Kcd .././/
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd../[K[K[K ../../
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ cd ../../
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ ls
+[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdata[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mgo[0m  [01;34mhome[0m  [01;36mlib[0m  [01;36mlib32[0m  [01;36mlib64[0m  [01;36mlibx32[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m  [01;34mvscode[0m  [34;42mworkspaces[0m
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ cd data/aircraft/
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ ls
+[0m[01;34mbackup[0m  [01;34mconfigurations[0m  [01;34mlocations[0m
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ sudo mkdir n223wx
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ ls
+[0m[01;34mbackup[0m  [01;34mconfigurations[0m  [01;34mlocations[0m  [01;34mn223wx[0m
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ cd ..
+[0;32m@iphantom1er [0m➜ [1;34m/data [0m$ cd ..
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ ls
+[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdata[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mgo[0m  [01;34mhome[0m  [01;36mlib[0m  [01;36mlib32[0m  [01;36mlib64[0m  [01;36mlibx32[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m  [01;34mvscode[0m  [34;42mworkspaces[0m
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ cd workspaces/co[K[Kcis190-codespace/
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ ls
+README.md  [0m[34;42mlabs[0m  [34;42mquizzes[0m  [34;42msandbox[0m
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ cd labs/
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab04
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mconfigs[0m  [01;31mlab04.tgz[0m  typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n223wx/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cp config_1.ini [K config_2.ini data/aircraft/n22wx
+cp: target 'data/aircraft/n22wx' is not a directory
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cp config_1.ini config_2.ini data/aircraft/n22wx3wx
+cp: target 'data/aircraft/n223wx' is not a directory
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cp config_1.ini config_2.ini data/aircraft/n223wx/data/aircraft/n223wx
+cp: cannot create regular file '/data/aircraft/n223wx/config_1.ini': Permission denied
+cp: cannot create regular file '/data/aircraft/n223wx/config_2.ini': Permission denied
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ sudo cp config_1.ini config_2.ini /data/aircraft/n223wx
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cd ../../
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd..[K[K ../ ..[K[K[K../
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ cd ../../../
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ cd ..[K[K[K[K[Ks;,w[K[K[K[Kcd
+[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ swp[,;qmlc klsdvjqeo h347g347[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ 
+[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ 
+[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ 
+[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ [K[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ [K[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ [K[0;32m@iphantom1er [0m➜ [1;34m~ [0m$ workspaces
+bash: workspaces: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m~ [0m$ cd ../
+[0;32m@iphantom1er [0m➜ [1;34m/home [0m$ ls
+[0m[01;34mcodespace[0m  [01;34mvscode[0m
+[0;32m@iphantom1er [0m➜ [1;34m/home [0m$ cd /data/
+[0;32m@iphantom1er [0m➜ [1;34m/data [0m$ ls
+[0m[01;34maircraft[0m
+[0;32m@iphantom1er [0m➜ [1;34m/data [0m$ cd aircraft/
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ la
+[0m[01;34mbackup[0m  [01;34mconfigurations[0m  [01;34mlocations[0m  [01;34mn223wx[0m
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ cd n223wx/
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft/n223wx [0m$ ls
+config_1.ini  config_2.ini
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft/n223wx [0m$ diff config_1.ini config_02[K[K2.ini 
+2c2
+< mission_id = MISS-7913
+---
+> mission_id = MISS-7914
+9,10c9,10
+< max_altitude = 40000
+< max_speed = 500
+---
+> max_altitude = 30000
+> max_speed = 200
+24,25c24,25
+< log_level = DEBUG
+< log_file = /data/logs/n223wx-MISS-7913.log
+---
+> log_level = ERROR
+> log_file = /data/logs/n223wx-MISS-7914.log
+[0;32m@iphantom1er [1;31m➜ [1;34m/data/aircraft/n223wx [0m$ cd w[K/workspaces/cis190-codespace/a[Kc[K
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ ls
+README.md  [0m[34;42mlabs[0m  [34;42mquizzes[0m  [34;42msandbox[0m
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ cd labs/
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[34;42mlab02[0m  [34;42mlab03[0m  [34;42mlab04[0m
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab04
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mconfigs[0m  [01;31mlab04.tgz[0m  typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n890mn/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ file config_1.ini 
+config_1.ini: bzip2 compressed data, block size = 900k
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ bzcat cin[K[Konfif==[K[K[Kg_1.ini
+[mission]
+mission_id = MISS-5158
+objective = Engagement
+start_time = 12:45
+duration_minutes = 180
+
+[drone]
+tail_number = n890mn
+max_altitude = 10000
+max_speed = 250
+payload_capacity = 550
+
+[camera]
+resolution = 720p
+frame_rate = 30
+infrared = True
+lidar = True
+
+[communication]
+frequency = 3.28
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n890mn-MISS-5158.log
+
+[waypoints]
+waypoint_1 = 84.980788, -86.016524, 1533
+waypoint_2 = 81.807711, -138.487072, 1263
+waypoint_3 = -37.341804, -58.442351, 130
+waypoint_4 = 11.15891, 155.133732, 1234
+waypoint_5 = -31.33362, 168.860799, 465
+waypoint_6 = -18.869568, 25.004442, 1343
+waypoint_7 = -88.376913, 163.880079, 1261
+waypoint_8 = -43.837074, 145.609756, 531
+waypoint_9 = -74.808728, 137.050896, 1091
+waypoint_10 = 47.512843, 154.162226, 424
+
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ cd ../
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n2
+n223wx/ n234ij/ 
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n223wx/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ grep misso[Kion
+
+
+cd 
+ssmcalPFO	DPE 3W3	                ^[P
+i A ^C
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cd '/workspaces/cis190-codespace/labs/lab04'
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mconfigs[0m  [01;31mlab04.tgz[0m  typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ grep -r mission
+[35m[Kn567kl/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn567kl/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2570
+[35m[Kn567kl/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn567kl/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-6909
+[35m[Kn567kl/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn567kl/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-3332
+[35m[Kn567kl/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn567kl/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-3324
+[35m[Kn567kl/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn567kl/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9847
+[35m[Kn456cd/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn456cd/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-6015
+[35m[Kn456cd/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn456cd/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8258
+[35m[Kn456cd/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn456cd/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7978
+[35m[Kn456cd/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn456cd/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-3634
+[35m[Kn456cd/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn456cd/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-6632
+[35m[Kn789ef/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn789ef/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7886
+[35m[Kn789ef/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn789ef/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8389
+[35m[Kn789ef/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn789ef/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9140
+[35m[Kn789ef/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn789ef/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7361
+[35m[Kn789ef/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn789ef/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8288
+[35m[Kn123ab/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn123ab/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4901
+[35m[Kn123ab/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn123ab/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4879
+[35m[Kn123ab/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn123ab/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8637
+[35m[Kn123ab/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn123ab/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8692
+[35m[Kn123ab/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn123ab/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2856
+[35m[Kn223wx/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn223wx/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9994
+[35m[Kn223wx/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn223wx/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7914
+[35m[Kn223wx/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn223wx/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2626
+[35m[Kn223wx/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn223wx/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7913
+[35m[Kn223wx/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn223wx/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-1386
+[35m[Kn678st/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn678st/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4582
+[35m[Kn678st/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn678st/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2590
+[35m[Kn678st/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn678st/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2813
+[35m[Kn678st/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn678st/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4622
+[35m[Kn678st/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn678st/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-3970
+[35m[Kn890mn/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn890mn/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2882
+[35m[Kn890mn/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn890mn/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4231
+[35m[Kn890mn/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn890mn/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-6476
+[35m[Kn890mn/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn890mn/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2147
+[35m[Kn234ij/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn234ij/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-5357
+[35m[Kn234ij/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn234ij/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9177
+[35m[Kn234ij/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn234ij/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7044
+[35m[Kn234ij/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn234ij/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-6299
+[35m[Kn234ij/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn234ij/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8022
+[35m[Kn101gh/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn101gh/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-5189
+[35m[Kn101gh/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn101gh/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-5682
+[35m[Kn101gh/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn101gh/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4276
+[35m[Kn101gh/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn101gh/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4847
+[35m[Kn101gh/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn101gh/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8232
+[35m[Kn101gh/config_1a.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn101gh/config_1a.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4254
+[35m[Kn112op/config_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn112op/config_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-4669
+[35m[Kn112op/config_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn112op/config_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9936
+[35m[Kn112op/config_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn112op/config_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2502
+[35m[Kn112op/config_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn112op/config_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-8346
+[35m[Kn112op/config_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kn112op/config_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-6240
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n223wx/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ r[Kgrep - [Kr mission
+[35m[Kconfig_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9994
+[35m[Kconfig_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7914
+[35m[Kconfig_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2626
+[35m[Kconfig_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7913
+[35m[Kconfig_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-1386
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ gee[K[Krei[Kp -i mis[Kssion
+
+@iphantom1er ➜ .../labs/lab04/configs/n223wx (main) $ grep -i mission@iphantom1er ➜ .../labs/lab04/configs/n223wx (main) $ grep -i mission
+@iphantom1er ➜ .../labs/lab04/configs/n223wx (main) $ grep -i [01;31m[Kmission[m[K@iphantom1er ➜ .../labs/lab04/configs/n223wx (main) $ grep -i [01;31m[Kmission[m[K
+
+^[[D    ^[[A^[[A        i u p @ip
+man script          
+man script
+@iphantom1er ➜ .../labs/lab04/configs/n223wx (main) $ grep -i mission           
+^[^[^[^[        ^[
+:Q
+^[[A^[[A^[[A^[[A                
+\ |\ 
+^[^[^[      ^C
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$  gre[K[K[K[Kgreip[K[Kp -r :[K"mission"
+[35m[Kconfig_3.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_3.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-9994
+[35m[Kconfig_2.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_2.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7914
+[35m[Kconfig_5.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_5.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-2626
+[35m[Kconfig_1.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_1.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-7913
+[35m[Kconfig_4.ini[m[K[36m[K:[m[K[[01;31m[Kmission[m[K]
+[35m[Kconfig_4.ini[m[K[36m[K:[m[K[01;31m[Kmission[m[K_id = MISS-1386
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ greip[K[Kp -i mission
+^C
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ grep - i[K[Ki "mission"
+^C
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cd ../
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n456cd/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ heag[Kd config_1.ini 
+[mission]
+mission_id = MISS-3634
+objective = Patrol
+start_time = 17:45
+duration_minutes = 360
+
+[drone]
+tail_number = n456cd
+max_altitude = 50000
+max_speed = 400
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ tail config_1
+tail: cannot open 'config_1' for reading: No such file or directory
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ tail config_1.ini 
+waypoint_2 = -12.680699, -9.550498, 1876
+waypoint_3 = 74.576984, 119.556446, 1618
+waypoint_4 = 58.691801, -101.169707, 1182
+waypoint_5 = 75.334927, 102.763581, 538
+waypoint_6 = 72.273591, -75.473624, 1272
+waypoint_7 = 72.718595, -170.751813, 1122
+waypoint_8 = 15.835668, 66.396993, 724
+waypoint_9 = 8.739251, 179.824648, 194
+waypoint_10 = 88.105814, 137.38576, 1945
+
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cat config_1.ini 
+[mission]
+mission_id = MISS-3634
+objective = Patrol
+start_time = 17:45
+duration_minutes = 360
+
+[drone]
+tail_number = n456cd
+max_altitude = 50000
+max_speed = 400
+payload_capacity = 625
+
+[camera]
+resolution = 4K
+frame_rate = 30
+infrared = True
+lidar = True
+
+[communication]
+frequency = 3.36
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n456cd-MISS-3634.log
+
+[waypoints]
+waypoint_1 = 86.097166, 11.149865, 1578
+waypoint_2 = -12.680699, -9.550498, 1876
+waypoint_3 = 74.576984, 119.556446, 1618
+waypoint_4 = 58.691801, -101.169707, 1182
+waypoint_5 = 75.334927, 102.763581, 538
+waypoint_6 = 72.273591, -75.473624, 1272
+waypoint_7 = 72.718595, -170.751813, 1122
+waypoint_8 = 15.835668, 66.396993, 724
+waypoint_9 = 8.739251, 179.824648, 194
+waypoint_10 = 88.105814, 137.38576, 1945
+
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cd ../../
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd../[K[K[K ../ [K../
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace [0;36m([1;31mmain[0;36m) [0m$ cd ../../
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ ls
+[0m[01;36mbin[0m   [01;34mdata[0m  [01;34metc[0m  [01;34mhome[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m     [34;42mworkspaces[0m
+[01;34mboot[0m  [01;34mdev[0m   [01;34mgo[0m   [01;36mlib[0m   [01;36mlib64[0m  [01;34mmedia[0m   [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m  [01;34mvscode[0m
+[0;32m@iphantom1er [0m➜ [1;34m/ [0m$ cd data/aircraft/
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ ls
+[0m[01;34mbackup[0m  [01;34mconfigurations[0m  [01;34mlocations[0m  [01;34mn223wx[0m
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ sudo mkdir n456cd
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ ls
+[0m[01;34mbackup[0m  [01;34mconfigurations[0m  [01;34mlocations[0m  [01;34mn223wx[0m  [01;34mn456cd[0m
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft [0m$ cd /workspaces/cis190-codespace/labs/lab04
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mconfigs[0m  [01;31mlab04.tgz[0m  typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n456cd/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ mv config_3.ini /d
+data/ dev/  
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ mv config_3.ini /data/aircraft/n456cd/
+mv: cannot create regular file '/data/aircraft/n456cd/config_3.ini': Permission denied
+[0;32m@iphantom1er [1;31m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ sudo mv config_3.ini /data/aircraft/n456cd/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ ls -lh
+total 16K
+-rw-r--r-- 1 codespace codespace 802 Jul  5 16:24 config_1.ini
+-rw-r--r-- 1 codespace codespace 806 Jul  5 16:24 config_2.ini
+-rw-r--r-- 1 codespace codespace 808 Jul  5 16:24 config_4.ini
+-rw-r--r-- 1 codespace codespace 811 Jul  5 16:24 config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cd /data/aircraft/n456cd/
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft/n456cd [0m$ ls
+config_3.ini
+[0;32m@iphantom1er [0m➜ [1;34m/data/aircraft/n456cd [0m$ cd .w[K[K/workspaces/cis190-codespace/labs/lab04
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mconfigs[0m  [01;31mlab04.tgz[0m  typescript
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ sp[Kort tailnumbers.txt 
+n101gh
+n101gh
+n101gh
+n101gh
+n112op
+n112op
+n112op
+n112op
+n112op
+n123ab
+n223wx
+n223wx
+n223wx
+n223wx
+n234ij
+n234ij
+n234ij
+n234ij
+n456cd
+n456cd
+n456cd
+n456cd
+n456cd
+n456cd
+n456cd
+n567kl
+n567kl
+n567kl
+n678st
+n678st
+n678st
+n678st
+n678st
+n789ef
+n789ef
+n789ef
+n789ef
+n890mn
+n890mn
+n890mn
+n890mn
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ s[Ksort tailnumbers.txt | uniq
+n101gh
+n112op
+n123ab
+n223wx
+n234ij
+n456cd
+n567kl
+n678st
+n789ef
+n890mn
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n223wx/
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ bzip2 config_1.ini 
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;31mconfig_1.ini.bz2[0m  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ bunzip2 config_1.ini.bz2 
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ ls
+config_1.ini  config_2.ini  config_3.ini  config_4.ini  config_5.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cd ../
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ tar -czvf newcong[Kfigs.tgz configs
+tar: configs: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[0;32m@iphantom1er [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ tar -czvf newconfigs.tgz configs
+tar: configs: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[0;32m@iphantom1er [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ tar -czvf newconfigs.tgz configswconfigsoconfigseconfigs[1Pconfigsrconfigskconfigssconfigspconfigsaconfigs[Cconfigseconfigssconfigs/workspacesconfigs[C[C[C[C[C[C[C[C[C/sconfigs[1Psconfigs[C/configs[Cconfigsiconfigss190-codespace/configslconfigsabs/configslconfigsab0configs[A[0;32m@iphantom1er [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4configs[A[0;32m@iphantom1er [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/configs[A[0;32m@iphantom1er [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+tar: Removing leading `/' from member names
+/workspaces/cis190-codespace/labs/lab04/configs/
+/workspaces/cis190-codespace/labs/lab04/configs/n567kl/
+/workspaces/cis190-codespace/labs/lab04/configs/n567kl/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n567kl/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n567kl/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n567kl/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n567kl/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/tailnumbers.txt
+/workspaces/cis190-codespace/labs/lab04/configs/n456cd/
+/workspaces/cis190-codespace/labs/lab04/configs/n456cd/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n456cd/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n456cd/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n456cd/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n789ef/
+/workspaces/cis190-codespace/labs/lab04/configs/n789ef/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n789ef/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n789ef/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n789ef/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n789ef/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n123ab/
+/workspaces/cis190-codespace/labs/lab04/configs/n123ab/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n123ab/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n123ab/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n123ab/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n123ab/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n223wx/
+/workspaces/cis190-codespace/labs/lab04/configs/n223wx/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n223wx/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n223wx/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n223wx/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n223wx/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n678st/
+/workspaces/cis190-codespace/labs/lab04/configs/n678st/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n678st/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n678st/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n678st/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n678st/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/newconfigs.tgz
+/workspaces/cis190-codespace/labs/lab04/configs/n890mn/
+/workspaces/cis190-codespace/labs/lab04/configs/n890mn/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n890mn/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n890mn/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n890mn/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n890mn/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n234ij/
+/workspaces/cis190-codespace/labs/lab04/configs/n234ij/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n234ij/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n234ij/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n234ij/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n234ij/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/config_4.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n101gh/config_1a.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n112op/
+/workspaces/cis190-codespace/labs/lab04/configs/n112op/config_3.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n112op/config_2.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n112op/config_5.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n112op/config_1.ini
+/workspaces/cis190-codespace/labs/lab04/configs/n112op/config_4.ini
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ ls
+[0m[01;34mn101gh[0m  [01;34mn112op[0m  [01;34mn123ab[0m  [01;34mn223wx[0m  [01;34mn234ij[0m  [01;34mn456cd[0m  [01;34mn567kl[0m  [01;34mn678st[0m  [01;34mn789ef[0m  [01;34mn890mn[0m  [01;31mnewconfigs.tgz[0m  tailnumbers.txt
+[0;32m@iphantom1er [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ locate gzip
+bash: locate: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd ../../
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd ../../locate gzip
+bash: locate: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ whereis gzip
+gzip: /usr/bin/gzip /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ which gzip
+/usr/bin/gzip
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ locate gzip
+bash: locate: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ free
+              total        used        free      shared  buff/cache   available
+Mem:        8119864     1420580      195272       68916     6504012     6307912
+Swap:             0           0           0
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ hostl[Kname
+codespaces-e055bf
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ uptime
+ 18:22:38 up  1:11,  0 users,  load average: 0.05, 0.12, 0.09
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ top
+[?1h=[?25l[H[2J(B[mtop - 18:22:43 up  1:11,  0 users,  load average: 0.05, 0.12, 0.09(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  22 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  21 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m    213.5 (B[m[39;49mfree,(B[m[39;49m[1m   1364.0 (B[m[39;49mused,(B[m[39;49m[1m   6352.1 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   6183.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                       (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.10 docker-init                                                   (B[m[39;49m[K
+(B[m      6 codespa+  20   0    7236   1664   1664 S   0.0   0.0   0:00.01 sleep                                                         (B[m[39;49m[K
+(B[m     21 root      20   0   12196   3440   2560 S   0.0   0.0   0:00.00 sshd                                                          (B[m[39;49m[K
+(B[m    339 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                            (B[m[39;49m[K
+(B[m    368 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                            (B[m[39;49m[K
+(B[m    526 codespa+  20   0    2624   1536   1536 S   0.0   0.0   0:00.01 sh                                                            (B[m[39;49m[K
+(B[m    535 codespa+  20   0 1329404 105376  45312 S   0.0   1.3   0:07.90 node                                                          (B[m[39;49m[K
+(B[m    555 codespa+  20   0   21.5g 335448  49920 S   0.0   4.1   0:45.79 node                                                          (B[m[39;49m[K
+(B[m    569 codespa+  20   0 1240380  54816  41216 S   0.0   0.7   0:00.46 node                                                          (B[m[39;49m[K
+(B[m    981 codespa+  20   0 1188532  72976  42496 S   0.0   0.9   0:07.01 node                                                          (B[m[39;49m[K
+(B[m    992 codespa+  20   0   16760  11640   3200 S   0.0   0.1   0:00.32 bash                                                          (B[m[39;49m[K
+(B[m   1310 codespa+  20   0  995176  55980  40192 S   0.0   0.7   0:00.33 node                                                          (B[m[39;49m[K
+(B[m   1472 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                            (B[m[39;49m[K
+(B[m   1517 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                            (B[m[39;49m[K
+(B[m   2045 root      20   0 1983432  85396  53120 S   0.0   1.1   0:00.56 dockerd                                                       (B[m[39;49m[K
+(B[m   2052 root      20   0 1798832  44552  30848 S   0.0   0.5   0:00.95 containerd                                                    (B[m[39;49m[K
+(B[m   3925 codespa+  20   0    7368   2304   2176 S   0.0   0.0   0:00.11 script                                                        (B[m[39;49m[K
+(B[m   3926 codespa+  20   0   17052  12032   3328 S   0.0   0.1   0:01.91 bash                                                          (B[m[39;49m[K
+(B[m  38598 codespa+  20   0    2620   1536   1536 S   0.0   0.0   0:00.00 sh                                                            (B[m[39;49m[K
+(B[m  38599 codespa+  20   0    8628   3200   2944 S   0.0   0.0   0:00.00 cpuUsage.sh                                                   (B[m[39;49m[K
+(B[m  38604 codespa+  20   0    7240   1920   1920 S   0.0   0.0   0:00.00 sleep                                                         (B[m[39;49m[K
+(B[m[1m  38605 codespa+  20   0   10880   3584   3072 R   0.0   0.0   0:00.00 top                                                           (B[m[39;49m[K
+[J[?1l>[41;1H
+[?12l[?25h[K[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ date
+Mon Jul  8 18:22:59 UTC 2024
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ echo hello[K[K[K[K[KHello,From General Atomics
+Hello,From General Atomics
+[0;32m@iphantom1er [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ end
+bash: end: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ typeset [K[K[K[Kscript
+bash: typescript: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ typescript
+bash: typescript: command not found
+[0;32m@iphantom1er [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ exit
+exit
+
+Script done on 2024-07-08 18:26:10+00:00 [COMMAND_EXIT_CODE="127"]
