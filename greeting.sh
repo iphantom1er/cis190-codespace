@@ -1,0 +1,2 @@
+echo "greeting from bash"
+

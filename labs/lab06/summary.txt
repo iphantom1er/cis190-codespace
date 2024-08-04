@@ -1,0 +1,10 @@
+First I created a directory in my labs directory titled labs06.
+Then I started a script command.
+I proceeded to use wget to dl configs.tgz file to my labs04 directory.
+From there I utilized the sudo command to copy the configs.tgz file to my /data/aircraft directory.
+I then extracted the tarball using tar -xzf /data/aircraft/filename.tar.gz -C /data/aircraft.
+From there I utilized the globstart command to list all the ini files in data/aircraft.
+I searched all files in data/aircraft for "AES-128 '' using grep.
+I then piped a word count.
+Then I redirected the output of task number 7 to a file called AES-128.
+
